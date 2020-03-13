@@ -1,0 +1,52 @@
+*{
+    margin: 1;
+    padding: 10;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000000;
+}
+body{
+    color: limegreen;
+    
+}
+header{
+
+}
+#DJI{
+    width: 320px ;
+    max-height: 200px ;
+}
+
+#FLYBOYS{
+    width: 320px;
+    max-height: 200px;
+}
+#Inspire{
+    max-width: 320px;
+   /* max-height: 400px;*/
+}
+h1{
+    font-size: 45px;
+    font-family: 'Amatic SC', cursive;
+}
+h2{
+    font-size: 25px;
+    color: orange;
+}
+h6{
+    color: red;
+}
+section{
+    border-bottom: 5px white solid;
+    margin-top: 5px;
+    padding: 10px;
+    border-top: 3px white;
+    border-radius: 10%;
+    box-shadow: 2px 2px;
+}
+@media only screen and (min-width: 768px){
+    img {display: flex;
+    }
+}
